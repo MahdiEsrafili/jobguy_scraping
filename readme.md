@@ -1,4 +1,4 @@
-Scraping https://jobguy.ir
+# Scraping jobguy.ir
 
 ![](pros_cons_join.png)
 
